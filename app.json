@@ -16,9 +16,13 @@
     },
     "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "package": "au.com.cventix.challenge-app",
+      "buildNumber": "1.0.0"
     },
     "android": {
+      "package": "au.com.cventix.challenge-app",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
