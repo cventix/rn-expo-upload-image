@@ -17,7 +17,7 @@
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
-      "package": "au.com.cventix.challenge_app",
+      "bundleIdentifier": "au.com.cventix.challengeapp",
       "buildNumber": "1.0.0"
     },
     "android": {
